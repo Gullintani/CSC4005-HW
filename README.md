@@ -1,2 +1,2 @@
-# CSC4005-Parallel-Computing
+# 4005HW
 Reference for parallel computing coursework and CP.
